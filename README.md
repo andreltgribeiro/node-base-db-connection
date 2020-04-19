@@ -6,7 +6,7 @@ This project hava a totally functional connection with database and a http GET e
 
 ## Things to remember ##
 
-__1. Change database credentials before start;__
+__1. Change database credentials in .env before start;__
 
 __2. Run migrations with "yarn sequelize db:migrate";__
 
